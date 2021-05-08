@@ -7,7 +7,7 @@ import {
   DiNodejs,
   DiMongodb,
   DiPython,
-  DiGit,
+
 } from "react-icons/di";
 import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
 
